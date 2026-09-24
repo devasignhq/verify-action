@@ -8,7 +8,7 @@ inputs:
   api-url:
     description: "DevAsign API origin."
     required: false
-    default: "https://devasign-agent.onrender.com"
+    default: "https://devasign-api-161910310724.us-east4.run.app"
   fail-on:
     description: "never — always exit 0; verdict — fail this job when a criterion fails verification; unverifiable — also fail when a criterion could not be verified. Empty (default) uses the repository's DevAsign setting, which is never unless changed."
     required: false

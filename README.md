@@ -40,7 +40,7 @@ How it behaves:
 
 | Input | Default | Meaning |
 |---|---|---|
-| `api-url` | `https://devasign-agent.onrender.com` | DevAsign API origin |
+| `api-url` | `https://devasign-api-161910310724.us-east4.run.app` | DevAsign API origin |
 | `fail-on` | repo setting (`never`) | `verdict` fails the job on a failed criterion; `unverifiable` also fails when a criterion could not be verified |
 | `version` | `1` | `@devasign/verify` version range |
 | `working-directory` | `.` | checkout directory to verify |
