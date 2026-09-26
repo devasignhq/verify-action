@@ -6,3 +6,4 @@ verify:
   e2e: auto
   login:
     strategy: none
+  servers: []
